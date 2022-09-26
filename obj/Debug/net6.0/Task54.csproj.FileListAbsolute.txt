@@ -1,0 +1,15 @@
+/Users/puchkov/Examples/Task54/bin/Debug/net6.0/Task54
+/Users/puchkov/Examples/Task54/bin/Debug/net6.0/Task54.deps.json
+/Users/puchkov/Examples/Task54/bin/Debug/net6.0/Task54.runtimeconfig.json
+/Users/puchkov/Examples/Task54/bin/Debug/net6.0/Task54.dll
+/Users/puchkov/Examples/Task54/bin/Debug/net6.0/Task54.pdb
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.csproj.AssemblyReference.cache
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.AssemblyInfoInputs.cache
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.AssemblyInfo.cs
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.csproj.CoreCompileInputs.cache
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.dll
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/refint/Task54.dll
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.pdb
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/Task54.genruntimeconfig.cache
+/Users/puchkov/Examples/Task54/obj/Debug/net6.0/ref/Task54.dll
